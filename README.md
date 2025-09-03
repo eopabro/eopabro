@@ -11,31 +11,15 @@
 
 - 🧠 Acadêmico em Inteligência Artificial  
 - 🎓 Graduando em Inteligência Artificial pela Senai - Fatesg  
-- 💻 Entusiasta em Ciência de Dados, Machine Learning e IA Generativa  
-- 👨‍💻 Interesse em Big data, Data science, Deep Learning e LLMs  
-- 📚 Em constante aprendizado e desenvolvimento de projetos práticos  
-- 🚀 Buscando contribuir com a comunidade e crescer profissionalmente na área de IA
+- 💻 Entusiasta em Machine Learning, Data Architecture & Data Engineering 
+- 👨‍💻 Interesse em Big data, Data Lakehouse, Deep Learning e MLOps
+- 📚 Em constante aprendizado e desenvolvimento de projetos práticos aplicados IA e Big Data
+- 🚀 Buscando contribuir com a comunidade e crescer profissionalmente na área de IA e Arquitetura de Dados
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-
-<p>
-  <!-- Linguagens e Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-  <!-- Inteligência Artificial e Ciência de Dados -->
-  <img src="https://img.shields.io/badge/Ciência%20de%20Dados-FF1493?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mineração%20de%20Dados-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Generativa-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLN-006400?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge&logo=llama&logoColor=white"/>
-</p>
-
----
-
+<p align="center"> <!-- Linguagens --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <!-- Data Engineering & Architecture --> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/ETL/ELT%20(Airflow)-4682B4?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Warehouse-2F4F4F?style=for-the-badge&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Big%20Data-F80000?style=for-the-badge&logo=apachehadoop&logoColor=white"/> <!-- Cloud & MLOps --> <img src="https://img.shields.io/badge/AWS%20(SageMaker%2C%20Bedrock)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker%20%26%20Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-228B22?style=for-the-badge&logo=docker&logoColor=white"/> <!-- Machine Learning & AI --> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <!-- Generative AI & NLP --> <img src="https://img.shields.io/badge/Generative%20AI-4B0082?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-6A5ACD?style=for-the-badge&logo=huggingface&logoColor=white"/> </p>
 ## 📊 Resumo do Perfil GitHub
 
 <p align="center">
@@ -43,10 +27,10 @@
 </p>
 
 ---
-
 ## 📂 Projetos Destacados
 
 -
+
 -
 
 ## 📬 Entre em Contato
