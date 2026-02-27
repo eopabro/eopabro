@@ -118,7 +118,7 @@ Explorações focadas em organização eficiente de dados, escalabilidade e sust
 ## Entre em Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/eopabro/"><img src="https://img.shields.io/badge/-LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oipabro/"><img src="https://img.shields.io/badge/-LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eopabro@gmail.com"><img src="https://img.shields.io/badge/-Email-1A56DB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@pablohenriqueHL"><img src="https://img.shields.io/badge/-YouTube-1A56DB?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/eopabro/"><img src="https://img.shields.io/badge/-Instagram-1A56DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
