@@ -1,7 +1,7 @@
 <h1 align="center">Pablo Henrique</h1>
 
 <p align="center">
-<strong>Engenharia de Dados • Machine Learning • Finanças Quantitativas • Arquitetura de Sistemas</strong>
+<strong>Engenharia de Dados • Machine Learning • Quantitative Developer • Arquitetura de Sistemas</strong>
 </p>
 
 <p align="center">
