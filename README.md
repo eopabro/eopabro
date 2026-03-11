@@ -1,102 +1,65 @@
 <h1 align="center">Pablo Henrique</h1>
 
 <p align="center">
-<strong>Data Engineering • Machine Learning • Quantitative Developer • Systems Architecture</strong>
+<strong>Engenharia de Dados • Machine Learning • Quantitative Developer • Arquitetura de Sistemas</strong>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Approach-Statistical%20Rigor-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Direction-Long%20Term%20Thinking-1D4ED8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Foco-Sistemas%20Escaláveis-1E3A8A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Abordagem-Rigor%20Estatístico-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Direção-Longo%20Prazo-1D4ED8?style=flat-square"/>
 </p>
 
 ---
 
-## Sobre
+## Identidade
 
-Atuo na interseção entre **engenharia de dados, machine learning e modelagem quantitativa**.
+Atuo na interseção entre matemática aplicada, engenharia de dados e modelagem computacional.
 
-Meu foco está na construção de **sistemas reprodutíveis orientados por dados**, combinando:
-
-- modelagem estatística  
-- pipelines de dados robustos  
-- infraestrutura para machine learning  
-- arquitetura de sistemas escaláveis  
-
-Busco estruturar **ambientes de pesquisa quantitativa e sistemas preditivos** com rigor matemático, organização arquitetural e visão de longo prazo.
+Desenvolvo sistemas orientados por fundamentos estatísticos sólidos, organização arquitetural e execução disciplinada.  
+Meu interesse está em ambientes de alta complexidade — onde estrutura, inferência e tecnologia convergem para gerar vantagem estrutural.
 
 ---
 
-# Quant Research Lab
+## Arquitetura Intelectual
 
-Este GitHub funciona como um **laboratório de engenharia quantitativa**.
+### Modelagem Matemática & Quantitativa
+- Probabilidade e Processos Estocásticos  
+- Inferência Estatística e Testes de Hipóteses  
+- Séries Temporais  
+- Otimização Numérica e Convexa  
+- Simulações Monte Carlo  
+- Modelagem de Risco e Backtesting  
 
-Os projetos aqui representam os componentes de um **sistema completo de pesquisa quantitativa**, composto por:
+### Machine Learning & Inteligência Artificial
+- Modelos Supervisionados  
+- Engenharia de Features  
+- Validação Estatística Rigorosa  
+- Seleção e Ajuste de Modelos  
+- Estruturação de Sistemas Preditivos  
+- Design Experimental  
 
-Cada repositório contribui para a construção dessa infraestrutura.
+### Engenharia de Dados & Arquitetura
+- Arquitetura de Pipelines (ETL / ELT)  
+- Processamento Distribuído  
+- Modelagem e Governança de Dados  
+- Performance e Baixa Latência  
+- Versionamento e Reprodutibilidade  
 
----
-
-# Principais Projetos
-
-### Quantitative Modeling Framework
-Arquitetura modular para modelagem estatística aplicada a dados financeiros com validação rigorosa, controle de risco e experimentação estruturada.
-
-### Time Series Forecasting Pipeline
-Pipeline completo para ingestão, tratamento e modelagem de séries temporais utilizando técnicas de validação temporal e análise de performance.
-
-### Financial Data Engineering
-Experimentos focados em pipelines de dados escaláveis para ingestão, transformação e organização de dados financeiros.
-
-### Machine Learning Experiments
-Implementações e testes com modelos preditivos aplicados a séries temporais e problemas quantitativos.
-
-### Discipline System (TypeScript)
-Aplicação para estruturar ciclos de execução, métricas comportamentais e consistência operacional.
-
----
-
-# Arquitetura Intelectual
-
-## Quantitative Modeling
-- Probability & Stochastic Processes  
-- Statistical Inference  
-- Hypothesis Testing  
-- Time Series Analysis  
-- Monte Carlo Simulation  
-- Risk Modeling  
-- Backtesting Methodologies  
-
-## Machine Learning
-- Supervised Learning  
-- Feature Engineering  
-- Model Selection  
-- Statistical Validation  
-- Predictive Systems  
-- Experimental Design  
-
-## Data Engineering
-- ETL / ELT Pipelines  
-- Distributed Processing  
-- Data Modeling  
-- Data Governance  
-- Data Versioning  
-- Reproducibility  
-
-## Systems Engineering
-- Backend APIs  
-- TypeScript Applications  
-- Modular Architecture  
-- Containerization  
-- Automation  
-- System Reliability  
+### Engenharia de Software & Produto
+- APIs e Backend Systems  
+- Aplicações em TypeScript  
+- Arquitetura limpa e modular  
+- Containerização e automação  
+- Estruturação de sistemas para consistência e disciplina operacional  
 
 ---
 
-# Stack Tecnológica
+## Stack Tecnológica
 
 <p align="center">
 
+<!-- Engenharia Base (Azul) -->
 <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -104,6 +67,7 @@ Aplicação para estruturar ciclos de execução, métricas comportamentais e co
 
 <br/>
 
+<!-- Matemática & ML (Cinza Claro) -->
 <img src="https://img.shields.io/badge/NumPy-E5E7EB?style=for-the-badge&logo=numpy&logoColor=111827"/>
 <img src="https://img.shields.io/badge/SciPy-E5E7EB?style=for-the-badge&logo=scipy&logoColor=111827"/>
 <img src="https://img.shields.io/badge/Statsmodels-E5E7EB?style=for-the-badge"/>
@@ -113,6 +77,7 @@ Aplicação para estruturar ciclos de execução, métricas comportamentais e co
 
 <br/>
 
+<!-- Infraestrutura (Azul) -->
 <img src="https://img.shields.io/badge/Apache%20Spark-1E3A8A?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -120,6 +85,7 @@ Aplicação para estruturar ciclos de execução, métricas comportamentais e co
 
 <br/>
 
+<!-- Disciplina & Engenharia Experimental (Cinza Claro) -->
 <img src="https://img.shields.io/badge/MLOps-E5E7EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backtesting-E5E7EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Time%20Series-E5E7EB?style=for-the-badge"/>
@@ -129,44 +95,38 @@ Aplicação para estruturar ciclos de execução, métricas comportamentais e co
 
 ---
 
-# Research Focus
+## Projetos Selecionados
 
-- Quantitative Finance  
-- Statistical Learning  
-- Time Series Forecasting  
-- Portfolio Optimization  
-- Data Infrastructure for ML  
-- Reproducible Research Systems  
+**Quantitative Modeling Framework**  
+Arquitetura modular para modelagem estatística aplicada a dados financeiros com validação robusta e controle rigoroso de risco.
+
+**Time Series Forecasting Pipeline**  
+Ambiente estruturado para ingestão, tratamento e previsão de séries temporais com validação cruzada temporal e monitoramento de performance.
+
+**Aplicação de Disciplina e Consistência**  
+Sistema desenvolvido em TypeScript para estruturar rotinas, ciclos de execução e métricas de consistência — integrando comportamento, tecnologia e performance.
+
+**Experimentos de Arquitetura de Dados**  
+Explorações focadas em organização eficiente de dados, escalabilidade e sustentabilidade de longo prazo.
 
 ---
-
-# Filosofia de Engenharia
----
-
-# Contato
 
 <p align="center">
+<sub>Execução estruturada. Fundamento matemático. Horizonte longo.</sub>
+</p>
 
-<a href="https://www.linkedin.com/in/oipabro/">
-<img src="https://img.shields.io/badge/LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## Entre em Contato
 
-<a href="mailto:eopabro@gmail.com">
-<img src="https://img.shields.io/badge/Email-1A56DB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@pablohenriqueHL">
-<img src="https://img.shields.io/badge/YouTube-1A56DB?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/eopabro/">
-<img src="https://img.shields.io/badge/Instagram-1A56DB?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/oipabro/"><img src="https://img.shields.io/badge/-LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:eopabro@gmail.com"><img src="https://img.shields.io/badge/-Email-1A56DB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pablohenriqueHL"><img src="https://img.shields.io/badge/-YouTube-1A56DB?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eopabro/"><img src="https://img.shields.io/badge/-Instagram-1A56DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-<sub>Execution • Mathematical Foundations • Long Term Vision</sub>
+  <strong> Obrigado por visitar meu perfil!</strong><br/>
+  Fique à vontade para explorar meus projetos ou entrar em contato.
 </p>
