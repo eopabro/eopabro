@@ -5,7 +5,7 @@
 ### Data Engineering | Machine Learning Engineering | Quantitative Developer
 
 
-desenvolvo estratégias para decisões financeiras <br>.
+desenvolvo estratégias para decisões financeiras <br>
 modelando risco e incerteza em sistemas de predição.
 </div>
 <p align="center">
