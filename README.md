@@ -105,18 +105,6 @@ ml-experiment-tracker: organização de experimentos utilizando MLflow e Weights
 
 quant-system: integração completa com FastAPI, Docker Compose e deploy local.
 
-# Workflow dos projetos
-
-1. Coleta e versionamento de dados  
-2. Engenharia de features e feature store  
-3. Formulação de hipótese e experiment design  
-4. Modelagem e validação out-of-sample  
-5. Backtesting robusto com custos e slippage  
-6. Productionization (API, containers, CI/CD)  
-7. Observability e monitoramento de modelos  
-
----
-
 # Estatísticas de Atividade
 
 <p align="center">
