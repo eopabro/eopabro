@@ -5,7 +5,9 @@
 ### Data Engineering | Machine Learning Engineering | Quantitative Developer
 </div>
 
-ESCREVEREI AQUI
+♟️ estratégias para decisões financeiras
+🌑 modelando risco e incerteza em sistemas de previsão
+✨ engenharia de dados • machine learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engenharia_de_Dados-1E3A8A?style=flat-square&labelColor=FFFFFF&logo=apache-spark&logoColor=1E3A8A"/>
