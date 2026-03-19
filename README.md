@@ -3,11 +3,11 @@
 # Pablo Henrique 
 
 ### Data Engineering | Machine Learning Engineering | Quantitative Developer
+
+
+desenvolvo estratégias para decisões financeiras <br>.
+modelando risco e incerteza em sistemas de predição.
 </div>
-
-desenvolvo estratégias para decisões financeiras <br>
-modelando risco e incerteza em sistemas de predição
-
 <p align="center">
   <img src="https://img.shields.io/badge/Engenharia_de_Dados-1E3A8A?style=flat-square&labelColor=FFFFFF&logo=apache-spark&logoColor=1E3A8A"/>
   <img src="https://img.shields.io/badge/Modelagem_Estatística-1E3A8A?style=flat-square&labelColor=FFFFFF&logo=scipy&logoColor=1E3A8A"/>
