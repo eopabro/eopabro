@@ -16,7 +16,7 @@ modelando risco e incerteza em sistemas de predição
 
 
 <p align="center">
-<i>Construo sistemas para pesquisa quantitativa: pipelines de dados, engenharia de features, modelagem estatística e deploy de modelos.</i>
+<i>sistemas para pesquisa quantitativa: pipelines de dados, engenharia de features, modelagem estatística e deploy de modelos.</i>
 </p>
 
 ---
