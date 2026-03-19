@@ -54,20 +54,18 @@ modelando risco e incerteza em sistemas de predição
 
 ---
 
-# Quant System
+# Meu Quant System
 
 Este GitHub funciona como um laboratório de pesquisa quantitativa em finanças.<br>
-Aqui documento a construção de sistemas completos usados em pesquisa aplicada:
+Aqui documento a construção de sistemas completos:
 
 *dados → features → modelos → experimentos → deploy*
 
-Cada repositório representa um componente real do pipeline de pesquisa quantitativa. <br>
 A ideia consiste em desenvolver sistemas de negociação quantitativa:
 
 *estudar, construir, documentar e compartilhar o processo.*
 
-Basicamente meu diário técnico e documentação de aprendizado e engenharia. <br> 
-Alguns projetos começam como experimentos e evoluem para sistemas mais completos.
+meu diário técnico e documentação de aprendizado. <br> 
 
 ---
 
@@ -85,12 +83,7 @@ Alguns projetos começam como experimentos e evoluem para sistemas mais completo
 - Machine Learning aplicado a sinais financeiros <br>
 - Rastreamento de experimentos e reprodutibilidade <br>
 - Backtesting robusto e métricas de risco <br>
-- Colocação de sistemas de pesquisa em produção
-
-# Sobre o Aprendizado
-
-Este perfil do Github acompanha meus estudos e projetos documentados no meu canal do Youtube. <br>
-Todos os projetos possuem notebooks, exemplos e explicações detalhadas.
+- Subindo sistemas de pesquisa para produção
 
 ---
 
