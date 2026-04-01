@@ -105,8 +105,7 @@ quant-system: integração completa com FastAPI, Docker Compose e deploy local.
 # Estatísticas de Atividade
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eopabro&show_icons=true&title_color=491c1b&icon_color=6b1f1e&text_color=3a3a3a&border_color=d6d3d1&bg_color=ffffff" alt="Estatísticas Gerais" />
-  
+
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=6b1f1e&currStreakLabel=7a2322" alt="Consistência de Commits" />
 </p>
 
