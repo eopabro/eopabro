@@ -38,7 +38,7 @@ Projeto e sustento a infraestrutura que viabiliza decisões sob risco no mercado
 
 ---
 ### Arquitetura do Sistema
-Neste perfil, documento a viabilização técnica dos ecossistemas de Machine Learning que projeto para produção. Meu foco é converter modelos estatísticos em sistemas de execução estáveis e auditáveis, garantindo que a inteligência quantitativa sobreviva ao mundo real.
+Neste perfil, documento a viabilidade técnica dos ecossistemas de Machine Learning que projeto para produção. Meu foco é converter modelos estatísticos em sistemas de execução estáveis e auditáveis, garantindo que a inteligência quantitativa sobreviva ao mundo real.
 
 ---
 
