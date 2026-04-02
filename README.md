@@ -1,86 +1,81 @@
-<div align="center">
-
 # Pablo Henrique 
 
-### Cloud Engineer | Machine Learning Engineer 
+### Cloud Engineer | Machine Learning Engineer
 
-arquitetando a infraestrutura que sustenta decisões sob risco no mercado financeiro. <br>
-cloud engineering • mlops • sistemas de missão crítica
-</div>
+Arquitetando a infraestrutura que sustenta decisões sob risco no mercado financeiro. <br>
+Cloud engineering • MLOps • Sistemas de missão crítica.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Engineering-491c1b?style=flat-square&labelColor=F5F5F5&logo=amazon-aws&logoColor=491c1b"/>
-  <img src="https://img.shields.io/badge/ML_Engineering-491c1b?style=flat-square&labelColor=F5F5F5&logo=mlflow&logoColor=491c1b"/>
-  <img src="https://img.shields.io/badge/Quantitative_Systems-491c1b?style=flat-square&labelColor=F5F5F5&logo=lightning&logoColor=491c1b"/>
-</p>
-
-<p align="center">
-<i>reduzindo o intervalo entre o dado bruto e a decisão estratégica através de sistemas escaláveis e resilientes.</i>
-</p>
+Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de sistemas escaláveis e resilientes.
 
 ---
 
-### Core Stack & Expertise
+### Tecnologias e Infraestrutura de Missão Crítica
 
-No mercado financeiro, a robustez é a prioridade zero. Minha stack é selecionada para garantir alta disponibilidade, observabilidade e performance.
-
-**cloud_infrastructure:** aws • terraform • kubernetes • docker • github_actions • linux • vpc • iam • s3 • prometheus
-
-**machine_learning_ops:** python • sql • mlflow • spark • xgboost • fastapi • airflow • dbt • prophet • scikit-learn
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-491c1b?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-491c1b?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-491c1b?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-491c1b?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-491c1b?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-491c1b?style=for-the-badge&logo=linux&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-491c1b?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-491c1b?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-491c1b?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-491c1b?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-491c1b?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-491c1b?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
 ---
 
 ### Arquitetura de Sistemas Financeiros
 
-Este GitHub funciona como a documentação técnica dos ecossistemas de Machine Learning em produção que projeto. O foco é transformar modelos estatísticos em sistemas de execução robustos.
+Este repositório atua como a documentação técnica dos ecossistemas de Machine Learning em produção que projeto. O foco é transformar modelos estatísticos em sistemas de execução robustos e auditáveis.
 
-**Pipeline de Execução:**
+Processo de Execução:
 Ingestão → Processamento → Feature Engineering → Modelagem → Deploy → Monitoramento
 
 ---
 
 ### Domínios de Engenharia
 
-**Cloud & Infrastructure:** Provisionamento via código (IaC) e orquestração de containers para workloads críticos.
+**Cloud & Infrastructure:** Provisionamento via código (IaC) e orquestração de containers para workloads de alta criticidade e baixa latência.
 
-**MLOps & Production:** Automação do ciclo de vida de modelos, garantindo reprodutibilidade e monitoramento contínuo.
+**MLOps & Production:** Automação do ciclo de vida de modelos, garantindo reprodutibilidade, governança e monitoramento contínuo em nuvem.
 
-**Financial Intelligence:** Aplicação de inteligência preditiva e análise de risco em séries temporais de alta volatilidade.
+**Financial Intelligence:** Aplicação de inteligência preditiva e análise de risco em séries temporais sob regimes de alta volatilidade.
 
-**Data Engineering:** Construção de pipelines de alta performance e Feature Stores escaláveis.
+**Data Engineering:** Construção de pipelines de alta performance e Feature Stores escaláveis para suporte a modelos de produção.
 
 ---
 
 ### Documentação de Projetos (Arquitetura)
 
 **cloud-quant-infrastructure**
-Provisionamento de infraestrutura AWS via Terraform: Redes, EKS e S3 para suporte a sistemas quantitativos.
+Provisionamento de infraestrutura AWS via Terraform: Redes, EKS e S3 para suporte a sistemas financeiros quantitativos.
 
 **ml-production-engine**
-Pipeline de MLOps de ponta a ponta: treinamento, versionamento com MLflow e deploy de modelos via FastAPI/Docker.
+Pipeline de MLOps de ponta a ponta: treinamento, versionamento com MLflow e deploy de modelos via FastAPI e Docker.
 
 **financial-risk-modeling**
-Inteligência aplicada: Modelagem de séries temporais e predição de volatilidade com validação rigorosa.
+Inteligência aplicada: Modelagem de séries temporais e predição de volatilidade com validação estatística rigorosa.
 
 **high-performance-data-pipeline**
-Engenharia de dados em escala: Ingestão e processamento de sinais de mercado com Spark e dbt.
+Engenharia de dados em escala: Ingestão e processamento de sinais de mercado utilizando Spark e dbt.
 
 ---
 
-### Telemetria & Atividade
+### Telemetria e Atividade
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=6b1f1e&currStreakLabel=7a2322" alt="Consistência de Commits" />
+<p align="left">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=491c1b&currStreakLabel=491c1b" alt="Consistência de Commits" />
 </p>
 
 ---
 
-<div align="center">
-
 ### Contato
 
-Disponível para discussões sobre arquitetura de sistemas e engenharia financeira.
+Disponível para discussões sobre arquitetura de sistemas, engenharia de dados e finanças.
 
 [LinkedIn](https://www.linkedin.com/in/oipabro/) | [Email](mailto:eopabro@gmail.com) | [YouTube](https://www.youtube.com/@pablohenriqueHL) | [Instagram](https://www.instagram.com/eopabro/)
-
-</div>
