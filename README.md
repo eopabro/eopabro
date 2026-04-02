@@ -3,28 +3,28 @@
 ### Cloud Engineer | Machine Learning Engineer
 
 Arquitetando a infraestrutura que sustenta decisões sob risco no mercado financeiro. <br>
-Cloud engineering • MLOps • Sistemas de missão crítica.
+Cloud Engineering • MLOps • Sistemas de Missão Crítica.
 
 Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de sistemas escaláveis e resilientes.
 
 ---
 
-### Tecnologias e Infraestrutura de Missão Crítica
+### Core Stack & Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-491c1b?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-491c1b?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-491c1b?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-491c1b?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-491c1b?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-491c1b?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=amazon-aws&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Terraform-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=terraform&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Kubernetes-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=kubernetes&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Docker-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=docker&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=github-actions&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Prometheus-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=prometheus&logoColor=491c1b&color=F5F5F5"/>
   <br/>
-  <img src="https://img.shields.io/badge/Python-491c1b?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-491c1b?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-491c1b?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-491c1b?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-491c1b?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-491c1b?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-491c1b?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-491c1b?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-491c1b?style=flat-square&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-491c1b?style=flat-square&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-491c1b?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-491c1b?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -69,13 +69,16 @@ Engenharia de dados em escala: Ingestão e processamento de sinais de mercado ut
 ### Telemetria e Atividade
 
 <p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=491c1b&currStreakLabel=491c1b" alt="Consistência de Commits" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=491c1b&currStreakLabel=491c1b" />
 </p>
 
 ---
 
 ### Contato
 
-Disponível para discussões sobre arquitetura de sistemas, engenharia de dados e finanças.
-
-[LinkedIn](https://www.linkedin.com/in/oipabro/) | [Email](mailto:eopabro@gmail.com) | [YouTube](https://www.youtube.com/@pablohenriqueHL) | [Instagram](https://www.instagram.com/eopabro/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/oipabro/"><img src="https://img.shields.io/badge/LinkedIn-491c1b?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:eopabro@gmail.com"><img src="https://img.shields.io/badge/Email-491c1b?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pablohenriqueHL"><img src="https://img.shields.io/badge/YouTube-491c1b?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eopabro/"><img src="https://img.shields.io/badge/Instagram-491c1b?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
