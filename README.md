@@ -1,11 +1,10 @@
-# Pablo Henrique 
+# Pablo Henrique
+### Cloud Engineer | Machine Learning Specialist
+--- 
 
-### Cloud Engineer | Machine Learning Engineer
-
-Arquitetando a infraestrutura que sustenta decisões sob risco no mercado financeiro. <br>
-Cloud Engineering • MLOps • Sistemas de Missão Crítica.
-
-Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de sistemas escaláveis e resilientes.
+<p align="justify">
+Projeto e sustento a infraestrutura que viabiliza decisões sob risco no mercado financeiro. Utilizo o rigor da Engenharia de Cloud de alta disponibilidade com a execução técnica de Sistemas Quantitativos e pipelines de dados. Meu foco é reduzir a latência entre o dado bruto e a inteligência estratégica, transformando modelos estatísticos em sistemas estáveis, robustos e de alta performance.
+</p>
 
 ---
 
@@ -38,48 +37,40 @@ Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de s
 </p>
 
 ---
-
-### Arquitetura de Sistemas Financeiros
-
-Este repositório atua como a documentação técnica dos ecossistemas de Machine Learning em produção que projeto. O foco é transformar modelos estatísticos em sistemas de execução robustos e auditáveis.
-
-Processo de Execução:
-Ingestão → Processamento → Feature Engineering → Modelagem → Deploy → Monitoramento
+### Arquitetura do Sistema
+Neste perfil, documento a viabilização técnica dos ecossistemas de Machine Learning que projeto para produção. Meu foco é converter modelos estatísticos em sistemas de execução estáveis e auditáveis, garantindo que a inteligência quantitativa sobreviva ao mundo real.
 
 ---
 
 ### Domínios de Engenharia
 
-**Cloud & Infrastructure:** Provisionamento via código (IaC) e orquestração de containers para workloads de alta criticidade e baixa latência.
 
-**MLOps & Production:** Automação do ciclo de vida de modelos, garantindo reprodutibilidade, governança e monitoramento contínuo em nuvem.
 
-**Financial Intelligence:** Aplicação de inteligência preditiva e análise de risco em séries temporais sob regimes de alta volatilidade.
+Cloud Engineering: Sustento workloads de missão crítica com foco em baixa latência, escalabilidade elástica e alta disponibilidade. <br>
+MLOps & Production: Pipelines de modelos que garantem a reprodutibilidade, governança e monitoramento contínuo em nuvem. <br>
+Financial Intelligence: Aplicação de inteligência preditiva e análise de risco em séries temporais sob regimes de alta volatilidade. <br>
+Data Engineering: Construção de ecossistemas de alta performance e Feature Stores escaláveis para suporte a modelos em produção.
 
-**Data Engineering:** Construção de pipelines de alta performance e Feature Stores escaláveis para suporte a modelos de produção.
+--- 
 
----
+### Documentação de Projetos
 
-### Documentação de Projetos (Arquitetura)
+**cloud-quant-infrastructure :** Orquestração de ecossistemas na **AWS** via **Terraform**, abrangendo governança de redes, provisionamento de **EKS** e persistência em S3. <br>
 
-**cloud-quant-infrastructure**
-Provisionamento de infraestrutura AWS via Terraform: Redes, EKS e S3 para suporte a sistemas financeiros quantitativos.
+**ml-production-engine :** Automação do ciclo de vida (MLOps) com versionamento via **MLflow** e estabilização de serviços de inferência em **FastAPI** e **Docker**. <br>
 
-**ml-production-engine**
-Pipeline de MLOps de ponta a ponta: treinamento, versionamento com MLflow e deploy de modelos via FastAPI e Docker.
+**financial-risk-modeling :** Modelagem de Inteligência Quantitativa focada em séries temporais e predição de volatilidade sob rigorosa validação estatística. <br>
 
-**financial-risk-modeling**
-Inteligência aplicada: Modelagem de séries temporais e predição de volatilidade com validação estatística rigorosa.
+**high-performance-data-pipeline :** Engenharia de fluxos em escala para ingestão e processamento de sinais de mercado de alta frequência com **Spark** e **dbt**. <br>
 
-**high-performance-data-pipeline**
-Engenharia de dados em escala: Ingestão e processamento de sinais de mercado utilizando Spark e dbt.
-
----
+----
 
 ### Telemetria e Atividade
 
 <p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=borderless&ring=491c1b&fire=491c1b&currStreakLabel=491c1b" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eopabro&theme=dark&background=0d1117&hide_border=true&stroke=491c1b&ring=491c1b&fire=491c1b&currStreakLabel=aebbc5&currStreakNum=ffffff&sideLabels=aebbc5&sideNums=ffffff" />
+  
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=eopabro&bg_color=0d1117&color=ffffff&line=491c1b&point=491c1b&area=true&hide_border=true&hide_title=true" />
 </p>
 
 ---
