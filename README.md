@@ -22,7 +22,7 @@ Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de s
   <img src="https://img.shields.io/badge/IAM_Security-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=awslambda&logoColor=491c1b&color=F5F5F5"/>
   <img src="https://img.shields.io/badge/Prometheus-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=prometheus&logoColor=491c1b&color=F5F5F5"/>
   <img src="https://img.shields.io/badge/Grafana-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=grafana&logoColor=491c1b&color=F5F5F5"/>
-  <img src="https://img.shields.io/badge/C++_High_Perf-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=c%2B%2B&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/C++-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=c%2B%2B&logoColor=491c1b&color=F5F5F5"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-491c1b?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Expert-491c1b?style=flat-square&logo=postgresql&logoColor=white"/>
