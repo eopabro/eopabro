@@ -2,7 +2,7 @@
 
 # Pablo Henrique 
 
-### Cloud Engineer | Machine Learning Engineer | Quantitative Systems
+### Cloud Engineer | Machine Learning Engineer 
 
 arquitetando a infraestrutura que sustenta decisões sob risco no mercado financeiro. <br>
 cloud engineering • mlops • sistemas de missão crítica
