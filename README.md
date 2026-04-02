@@ -17,14 +17,24 @@ Reduzindo o intervalo entre o dado bruto e a decisão estratégica através de s
   <img src="https://img.shields.io/badge/Kubernetes-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=kubernetes&logoColor=491c1b&color=F5F5F5"/>
   <img src="https://img.shields.io/badge/Docker-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=docker&logoColor=491c1b&color=F5F5F5"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=github-actions&logoColor=491c1b&color=F5F5F5"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=linux&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/IAM_Security-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=awslambda&logoColor=491c1b&color=F5F5F5"/>
   <img src="https://img.shields.io/badge/Prometheus-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=prometheus&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Grafana-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=grafana&logoColor=491c1b&color=F5F5F5"/>
+  <img src="https://img.shields.io/badge/VPC_Networking-F5F5F5?style=flat-square&labelColor=F5F5F5&logo=amazon-vpc&logoColor=491c1b&color=F5F5F5"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-491c1b?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Expert-491c1b?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-491c1b?style=flat-square&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-491c1b?style=flat-square&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-491c1b?style=flat-square&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-491c1b?style=flat-square&logo=dbt&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/dbt_Tool-491c1b?style=flat-square&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-491c1b?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-491c1b?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-491c1b?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka_Streaming-491c1b?style=flat-square&logo=apache-kafka&logoColor=white"/>
 </p>
 
 ---
