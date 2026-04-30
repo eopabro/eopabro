@@ -80,6 +80,6 @@ Data Engineering: Desenvolvimento de pipelines e estruturas de dados que garante
 <p align="left">
   <a href="https://www.linkedin.com/in/oipabro/"><img src="https://img.shields.io/badge/LinkedIn-491c1b?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eopabro@gmail.com"><img src="https://img.shields.io/badge/Email-491c1b?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@pablohenriqueHL"><img src="https://img.shields.io/badge/YouTube-491c1b?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pablohenriqueML"><img src="https://img.shields.io/badge/YouTube-491c1b?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/eopabro/"><img src="https://img.shields.io/badge/Instagram-491c1b?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
