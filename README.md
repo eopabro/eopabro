@@ -3,7 +3,7 @@
 --- 
 
 <p align="justify">
-Projeto e opero a infraestrutura que sustentam decisões sob risco no mercado financeiro. Utilizo Engenharia de Cloud com técnicas de Machine Learning em Sistemas Quantitativos e pipelines de dados. Meu foco é tornar modelos estatísticos utilizáveis no mundo real, aplicando redução de latência entre o dado bruto e a inteligência estratégica, garantindo estabilidade com sistemas robustos e de alta performance.
+Projeto e opero a infraestrutura que sustenta decisões sob risco no mercado financeiro. Utilizo Engenharia de Cloud com técnicas de Machine Learning em Sistemas Quantitativos e pipelines de dados. Meu foco é tornar modelos estatísticos utilizáveis no mundo real, aplicando redução de latência entre o dado bruto e a inteligência estratégica, garantindo estabilidade com sistemas robustos e de alta performance.
 </p>
 
 ---
