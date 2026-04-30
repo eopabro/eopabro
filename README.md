@@ -3,7 +3,7 @@
 --- 
 
 <p align="justify">
-Projeto e sustento a infraestrutura que viabiliza decisões sob risco no mercado financeiro. Utilizo o rigor da Engenharia de Cloud de alta disponibilidade com a execução técnica de Sistemas Quantitativos e pipelines de dados. Meu foco é reduzir a latência entre o dado bruto e a inteligência estratégica, transformando modelos estatísticos em sistemas estáveis, robustos e de alta performance.
+Projeto e opero a infraestrutura que sustentam decisões sob risco no mercado financeiro. Utilizo Engenharia de Cloud com técnicas de Machine Learning em Sistemas Quantitativos e pipelines de dados. Meu foco é tornar modelos estatísticos utilizáveis no mundo real, aplicando redução de latência entre o dado bruto e a inteligência estratégica, garantindo estabilidade com sistemas robustos e de alta performance.
 </p>
 
 ---
@@ -38,7 +38,7 @@ Projeto e sustento a infraestrutura que viabiliza decisões sob risco no mercado
 
 ---
 ### Arquitetura do Sistema
-Neste perfil, documento a viabilidade técnica dos ecossistemas de Machine Learning que projeto para produção. Meu foco é converter modelos estatísticos em sistemas de execução estáveis e auditáveis, garantindo que a inteligência quantitativa sobreviva ao mundo real.
+Neste perfil, documento como projeto ecossistemas de Machine Learning com viabilidade para produção. o objetivo é garantir que a  lógica estatística funcione de forma consistente, auditável e sustentável em sistemas reais.
 
 ---
 
@@ -46,22 +46,22 @@ Neste perfil, documento a viabilidade técnica dos ecossistemas de Machine Learn
 
 
 
-Cloud Engineering: Sustento workloads de missão crítica com foco em baixa latência, escalabilidade elástica e alta disponibilidade. <br>
-MLOps & Production: Pipelines de modelos que garantem a reprodutibilidade, governança e monitoramento contínuo em nuvem. <br>
-Financial Intelligence: Aplicação de inteligência preditiva e análise de risco em séries temporais sob regimes de alta volatilidade. <br>
-Data Engineering: Construção de ecossistemas de alta performance e Feature Stores escaláveis para suporte a modelos em produção.
+Cloud Engineering: Construção e operação de infraestrutura em nuvem com foco em disponibilidade, escalabilidade e resposta rápida a eventos. <br>
+MLOps & Production: Estruturação do ciclo de vida de modelos com versionamento, monitoramento e reprodutibilidade em ambiente produtivo. <br>
+Financial Intelligence: Aplicação de modelos preditivos em séries temporais para análise de risco e comportamento em cenários de alta volatilidade. <br>
+Data Engineering: Desenvolvimento de pipelines e estruturas de dados que garantem desempenho, consistência e suporte a modelos em escala.
 
 --- 
 
 ### Documentação de Projetos
 
-**cloud-quant-infrastructure :** Orquestração de ecossistemas na **AWS** via **Terraform**, abrangendo governança de redes, provisionamento de **EKS** e persistência em S3. <br>
+**cloud-quant-infrastructure :** Orquestração de ecossistemas na **AWS** via **Terraform**, abrangendo governança de redes, provisionamento de **EKS** e armazenamento em S3. <br>
 
-**ml-production-engine :** Automação do ciclo de vida (MLOps) com versionamento via **MLflow** e estabilização de serviços de inferência em **FastAPI** e **Docker**. <br>
+**ml-production-engine :** Pipeline de Machine Learning com controle de versões via **MLflow** e deploy de modelos usando **FastAPI** e **Docker**. <br>
 
-**financial-risk-modeling :** Modelagem de Inteligência Quantitativa focada em séries temporais e predição de volatilidade sob rigorosa validação estatística. <br>
+**financial-risk-modeling :** Modelagem de Inteligência Quantitativa focada em séries temporais e predição de volatilidade com validação estatística estruturada. <br>
 
-**high-performance-data-pipeline :** Engenharia de fluxos em escala para ingestão e processamento de sinais de mercado de alta frequência com **Spark** e **dbt**. <br>
+**high-performance-data-pipeline :** Engenharia de fluxos em larga escala para ingestão e processamento de sinais de mercado de alta frequência com **Spark** e **dbt**. <br>
 
 ----
 
