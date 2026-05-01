@@ -1,9 +1,11 @@
 # Pablo Henrique
-### Cloud Engineer | Machine Learning Specialist
+### Cloud Engineer | Financial Decision Infrastructure
 --- 
 
 <p align="justify">
-Projeto e opero a infraestrutura que sustenta decisões sob risco no mercado financeiro. Utilizo Engenharia de Cloud com técnicas de Machine Learning em Sistemas Quantitativos e pipelines de dados. Meu foco é tornar modelos estatísticos utilizáveis no mundo real, aplicando redução de latência entre o dado bruto e a inteligência estratégica, garantindo estabilidade com sistemas robustos e de alta performance.
+Uma infraestrutura de excelência é o alicerce que garante a precisão de cada decisão estratégica.
+Minha atuação é dedicada a apoiar operações que buscam crescer com segurança, onde a tecnologia é o pilar que sustenta a clareza nas decisões. Compreendo que, para negócios em expansão, o que mais importa é a garantia de que a base técnica suporte — com total fidelidade — a complexidade de ambientes reais sob carga, falha e crescimento.
+Foco em reduzir a distância entre o dado bruto e a inteligência estratégica, assegurando que o ecossistema tecnológico seja um fator de estabilidade e previsibilidade para quem lidera o negócio.
 </p>
 
 ---
@@ -38,7 +40,7 @@ Projeto e opero a infraestrutura que sustenta decisões sob risco no mercado fin
 
 ---
 ### Arquitetura do Sistema
-Neste perfil, documento como projeto ecossistemas de Machine Learning com viabilidade para produção. o objetivo é garantir que a  lógica estatística funcione de forma consistente, auditável e sustentável em sistemas reais.
+Neste perfil, documento a implementação prática de infraestruturas que garantem a viabilidade de sistemas de decisão em produção. O objetivo é demonstrar como orquestro camadas de cloud e dados para que operem de forma consistente, auditável e preparada para escala.
 
 ---
 
@@ -46,22 +48,25 @@ Neste perfil, documento como projeto ecossistemas de Machine Learning com viabil
 
 
 
-Cloud Engineering: Construção e operação de infraestrutura em nuvem com foco em disponibilidade, escalabilidade e resposta rápida a eventos. <br>
-MLOps & Production: Estruturação do ciclo de vida de modelos com versionamento, monitoramento e reprodutibilidade em ambiente produtivo. <br>
-Financial Intelligence: Aplicação de modelos preditivos em séries temporais para análise de risco e comportamento em cenários de alta volatilidade. <br>
-Data Engineering: Desenvolvimento de pipelines e estruturas de dados que garantem desempenho, consistência e suporte a modelos em escala.
+Cloud Infrastructure: Engenharia resiliente e orientada a controle de custo (FinOps), projetada para sustentar escala com estabilidade. <br>
+Decision Systems (MLOps): Integração de modelos preditivos como ativos operacionais para redução de incerteza em decisões críticas.<br>
+Operational Integrity: Garantia de consistência e rastreabilidade em fluxos de dados distribuídos de baixa latência.
 
 --- 
 
 ### Documentação de Projetos
 
-**cloud-quant-infrastructure :** Orquestração de ecossistemas na **AWS** via **Terraform**, abrangendo governança de redes, provisionamento de **EKS** e armazenamento em S3. <br>
+**decision-cluster-infrastructure :**
+Infraestrutura AWS projetada para eliminar pontos únicos de falha em ambientes Kubernetes. Garanto que a base técnica suporte o crescimento da operação sem interrupções por gargalos de rede ou falhas sistêmicas.
 
-**ml-production-engine :** Pipeline de Machine Learning com controle de versões via **MLflow** e deploy de modelos usando **FastAPI** e **Docker**. <br>
+**real-time-risk-engine :**
+Motor de processamento distribuído para reduzir o intervalo entre evento e decisão. Reduzo a exposição financeira em cenários de alta frequência, onde cada milissegundo de latência impacta diretamente o risco de capital.
 
-**financial-risk-modeling :** Modelagem de Inteligência Quantitativa focada em séries temporais e predição de volatilidade com validação estatística estruturada. <br>
+**ml-model-governance-pipeline :**
+Pipeline de MLOps focado em transformar modelos em ativos operacionais auditáveis. Garanto a integridade das decisões através de rastreabilidade total e capacidade de rollback imediato em produção.
 
-**high-performance-data-pipeline :** Engenharia de fluxos em larga escala para ingestão e processamento de sinais de mercado de alta frequência com **Spark** e **dbt**. <br>
+**decision-observability-stack :**
+Sistema de observabilidade orientado a SLIs de negócio. Monitoro a saúde da decisão para garantir que o ecossistema não esteja apenas online, mas operando com a precisão e a latência exigidas pela operação.
 
 ----
 
